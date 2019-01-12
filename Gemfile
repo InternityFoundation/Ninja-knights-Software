@@ -10,6 +10,7 @@ gem 'devise-bootstrap-views', '~> 1.0'
 gem 'rails_admin', '~> 1.3'
 gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin_rollincode', '~> 1.0'
+gem 'omniauth-google-oauth2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
 # Use sqlite3 as the database for Active Record
